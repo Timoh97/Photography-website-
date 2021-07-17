@@ -1,0 +1,17 @@
+* {background-color: rgb(142, 191, 204);}
+ol{font-weight: 0;}
+img{border: 3px solid black;}
+ol {overflow: auto;}
+ol{height: 100;width: 100;
+    overflow: auto;
+    border: 3px dotted grey;
+    border-width: 3px;}
+    ol {font-size: larger;}
+    p2{font-style: italic;
+    font-weight: 700;}
+
+p {font-size: large;
+font-weight: 535;}
+p3 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: x-large;}
+p3{color: crimson;}
