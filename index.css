@@ -10,8 +10,9 @@ ol{height: 100;width: 100;
     p2{font-style: italic;
     font-weight: 700;}
 
-p {font-size: large;
+p2 {font-size: large;
 font-weight: 535;}
-p3 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+p3{font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: x-large;}
-p3{color: crimson;}
+p3{color:crimson;}
+p{color: black; font-size: larger;}
