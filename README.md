@@ -7,3 +7,5 @@ Timothy Mugendi
 email: timohmugendi@gmail.com
 # Live server link
 https://timoh97.github.io/Photography-website-/
+# Design of the project link
+https://photos.google.com/photo/AF1QipNh2a4dKk6WloPmfMxkCC2boEUS5rTg3r0C0ga4
